@@ -1,0 +1,12 @@
+C:\Users\marcosroberto\Desktop\Chapter\Projeto_teste\Projeto_teste\bin\Debug\net6.0\Projeto_teste.deps.json
+C:\Users\marcosroberto\Desktop\Chapter\Projeto_teste\Projeto_teste\bin\Debug\net6.0\Projeto_teste.dll
+C:\Users\marcosroberto\Desktop\Chapter\Projeto_teste\Projeto_teste\bin\Debug\net6.0\Projeto_teste.pdb
+C:\Users\marcosroberto\Desktop\Chapter\Projeto_teste\Projeto_teste\obj\Debug\net6.0\Projeto_teste.csproj.AssemblyReference.cache
+C:\Users\marcosroberto\Desktop\Chapter\Projeto_teste\Projeto_teste\obj\Debug\net6.0\Projeto_teste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marcosroberto\Desktop\Chapter\Projeto_teste\Projeto_teste\obj\Debug\net6.0\Projeto_teste.AssemblyInfoInputs.cache
+C:\Users\marcosroberto\Desktop\Chapter\Projeto_teste\Projeto_teste\obj\Debug\net6.0\Projeto_teste.AssemblyInfo.cs
+C:\Users\marcosroberto\Desktop\Chapter\Projeto_teste\Projeto_teste\obj\Debug\net6.0\Projeto_teste.csproj.CoreCompileInputs.cache
+C:\Users\marcosroberto\Desktop\Chapter\Projeto_teste\Projeto_teste\obj\Debug\net6.0\Projeto_teste.dll
+C:\Users\marcosroberto\Desktop\Chapter\Projeto_teste\Projeto_teste\obj\Debug\net6.0\refint\Projeto_teste.dll
+C:\Users\marcosroberto\Desktop\Chapter\Projeto_teste\Projeto_teste\obj\Debug\net6.0\Projeto_teste.pdb
+C:\Users\marcosroberto\Desktop\Chapter\Projeto_teste\Projeto_teste\obj\Debug\net6.0\ref\Projeto_teste.dll
